@@ -13,7 +13,9 @@ We're always updating our app to provide the best experience for our users. If y
 
 Download now and discover the convenience of scanning and creating QR codes at your fingertips.
 
-## Download Link
-You can download **QR Scanner (Pro)** from Google Play Store via the following [link](https://bit.ly/43jwlpg).
+## Support Us
+If you find **QR Scanner (Pro)** helpful and want to support our work, you can show your appreciation by making a donation. You can support us by purchasing our app from the Google Play Store using the following [link](https://bit.ly/43jwlpg).
 
-Enjoy, and we hope this app proves useful to you!
+Your support will help us to continue improving the app and keep bringing new features to you. We appreciate your contribution!
+
+Thank you for your support, and we hope this app proves useful to you!
